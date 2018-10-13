@@ -75,12 +75,14 @@ import { ImporterService } from './services/participants/Importer/Importer.servi
 import { TemperatureReadingService } from './services/transactions/TemperatureReading/TemperatureReading.service';
 import { ShipmentReceivedService } from './services/transactions/ShipmentReceived/ShipmentReceived.service';
 import { SetupDemoService } from './services/transactions/SetupDemo/SetupDemo.service';
+import { RegisterPage } from '../pages/register/register';
 
 @NgModule({
 	declarations: [
 		MyApp,
 		SettingsPage,
 		HomePage,
+		RegisterPage,
 		AssetsPage,
 		AssetViewPage,
 		ParticipantsPage,
