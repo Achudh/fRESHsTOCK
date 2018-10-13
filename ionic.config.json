@@ -1,0 +1,7 @@
+{
+  "name": "fRESHsTOCK",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
